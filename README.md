@@ -12,6 +12,7 @@ All Sherlocks can be found on the Hack the Box Platform [here](https://app.hackt
 5. [Campfire-2](campfire-2.md)
 6. [Unit 42](unit42.md)
 7. [BFT](bft.md)
+8. [CrownJewel-1](crownjewel1.md)
 
 ## Easy
 1. [Pikaptcha](pikaptcha.md)
