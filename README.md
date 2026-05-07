@@ -14,6 +14,7 @@ All Sherlocks can be found on the Hack the Box Platform [here](https://app.hackt
 7. [BFT](bft.md)
 8. [CrownJewel-1](crownjewel1.md)
 9. [Operation Blackout 2025 Phantom Check](operationblackout_phantomcheck.md)
+10. [Operation Blackout 2025 Smoke in Mirrors](operationblackout_smokemirrors.md)
 
 ## Easy
 1. [Pikaptcha](pikaptcha.md)
