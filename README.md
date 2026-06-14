@@ -24,6 +24,7 @@ All Sherlocks can be found on the Hack the Box Platform [here](https://app.hackt
 5. [Compromised](compromised.md)
 6. [Takedown](takedown.md)
 7. [Operation Blackout 2025: Ghost Thread](operationblackout2025_ghostthread.md)
+8. [Fragility](fragility.md)
 
 ## Medium
 1. [Heartbreaker](heartbreaker.md)
